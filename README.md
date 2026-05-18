@@ -1,27 +1,43 @@
 ## Hi there 👋
 
-I'm Leonardo, a Computer Science student focused on becoming a back-end developer and software engineer.  
-Currently studying programming logic, Python, Java, and computer science fundamentals while building projects and improving my coding skills every day.
+I'm Leonardo, a Computer Science student and aspiring back-end developer from Brazil.  
+Right now, I'm focused on learning programming, improving my logic skills, and building a strong foundation in software development.
 
-- 🔭 I’m currently working on programming and back-end studies
-- 🌱 I’m currently learning Python, Java, logic programming, and computer science fundamentals
-- 🧠 Focused on improving problem solving and coding skills
-- 👯 I’m looking to collaborate on beginner-friendly projects
-- 📚 Currently studying Computer Science at university
-- ⚡ Goal: become a professional software engineer and build useful systems and applications
-- 📫 How to reach me: leonardofonsecadmc@gmail.com
+I enjoy studying technology, solving problems, and understanding how systems work behind the scenes.  
+Currently learning step by step while working on personal projects and university studies.
 
 ---
 
-### Technologies I'm learning
+## 🚀 What I'm Doing
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- 💻 Studying Python and Java
+- 📚 Learning programming logic and computer science fundamentals
+- 🛠️ Building small projects to improve my coding skills
+- 🎯 Focused on becoming a professional software engineer
+- 📖 Learning more every day about back-end development and technology
 
 ---
 
-### GitHub Stats
+## 🌱 Currently Learning
 
-![yanpefnsc GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+- Python
+- Java
+- Programming Logic
+- Algorithms
+- Object-Oriented Programming
+- Computer Science Fundamentals
+
+---
+
+## 💬 Let's Connect
+
+- 📫 Email: leonardofonsecadmc@gmail.com
+- 💻 GitHub: https://github.com/yanpefnsc
+
+---
+
+## 📊 GitHub Stats
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
