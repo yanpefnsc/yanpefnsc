@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Leonardo, a Computer Science student and aspiring back-end developer from Brazil.  
+I'm Leonardo, a Computer Science student and aspiring back-end developer.
 Right now, I'm focused on learning programming, improving my logic skills, and building a strong foundation in software development.
 
 I enjoy studying technology, solving problems, and understanding how systems work behind the scenes.  
@@ -30,12 +30,4 @@ Currently learning step by step while working on personal projects and universit
 ## 💬 Let's Connect
 
 - 📫 Email: leonardofonsecadmc@gmail.com
-- 💻 GitHub: https://github.com/SEUUSERNAME
-
----
-
-## 📊 GitHub Stats
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
+- 💻 GitHub: https://github.com/yanpefnsc
