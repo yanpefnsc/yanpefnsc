@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: yanpefnsc
+          github_user_name: SEUUSERNAME
           outputs: |
             dist/github-snake.svg?palette=github-dark&color_snake=#00FF00&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
