@@ -32,6 +32,4 @@ Currently learning step by step while working on personal projects and universit
 - 📫 Email: leonardofonsecadmc@gmail.com
 - 💻 GitHub: https://github.com/yanpefnsc
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-snake.svg)
+![snake gif](https://github.com/yanpefnsc/yanpefnsc/blob/output/github-snake.svg)
