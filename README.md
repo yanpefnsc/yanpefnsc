@@ -33,5 +33,4 @@ Currently learning step by step while working on personal projects and universit
 - 💻 GitHub: https://github.com/yanpefnsc
 
 ## 🐍 Contribution Snake
-
 ![Snake animation](https://github.com/yanpefnsc/yanpefnsc/blob/output/github-contribution-grid-snake-dark.svg)
