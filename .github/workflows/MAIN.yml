@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: yanpefnsc
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake.svg?color_snake=#39d353&color_dots=#ebedf0,#9be9a8,#7bc96f,#4caf50,#2ea043
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
