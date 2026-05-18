@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Leonardo, a Computer Science student and aspiring back-end developer from Brazil.  
+I'm Leonardo, a Computer Science student and aspiring back-end developer. 
 Right now, I'm focused on learning programming, improving my logic skills, and building a strong foundation in software development.
 
 I enjoy studying technology, solving problems, and understanding how systems work behind the scenes.  
