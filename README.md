@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Leonardo, a Computer Science student and aspiring back-end developer. 
+I'm Leonardo, a Computer Science student and aspiring back-end developer from Brazil.  
 Right now, I'm focused on learning programming, improving my logic skills, and building a strong foundation in software development.
 
 I enjoy studying technology, solving problems, and understanding how systems work behind the scenes.  
@@ -18,21 +18,17 @@ Currently learning step by step while working on personal projects and universit
 
 ---
 
-## 🌱 Currently Learning
+## 💻 Tech Stack
 
 - Python
 - Java
-- Programming Logic
-- Algorithms
-- Object-Oriented Programming
-- Computer Science Fundamentals
 
 ---
 
 ## 💬 Let's Connect
 
 - 📫 Email: leonardofonsecadmc@gmail.com
-- 💻 GitHub: https://github.com/yanpefnsc
+- 💻 GitHub: https://github.com/SEUUSERNAME
 
 ---
 
