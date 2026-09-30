@@ -1,8 +1,8 @@
 <div align="center">
 
 # Leonardo Damaceno
-### Software Engineer & Applied NLP Researcher
-*Computer Science Undergrad | Information Extraction & Spatial Data Pipelines*
+### Data Engineer & Applied NLP Researcher
+*Undergraduate in Big Data | Data Pipelines & Unstructured Information Extraction*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-damaceno-63699b398/">
@@ -22,26 +22,24 @@
 
 ### 🔬 Research & Technical Focus
 
-Software engineer and researcher developing systems for **Natural Language Processing (NLP)**, **Data Engineering**, and **Geographic Information Systems (GIS)**. Focused on designing robust pipelines for unstructured information extraction, entity resolution, and spatial mapping of critical urban events.
+Undergraduate student in Big Data and technical researcher building automated pipelines for data extraction, natural language processing, and spatial databases. Focused on unstructured text structuring, entity extraction, and geographical data integration.
 
-* **Data Engineering:** Automated web scrapers, data cleaning, and structured ETL pipelines.
-* **Applied NLP:** Named Entity Recognition (NER), transformer-based models (BERTimbau), and temporal normalization.
-* **Spatial Systems:** Geocoding and topological mapping with OpenStreetMap and PostGIS.
-* **Backend Core:** High-performance, scalable back-end architectures using Python, Java, and SQL databases.
+* **Data Engineering:** Web scrapers, data cleaning, automated ingestion, and ETL pipelines.
+* **Applied NLP:** Named Entity Recognition (NER), information extraction, and pre-trained Transformer models (BERTimbau/Hugging Face).
+* **Spatial Databases:** Storage, spatial queries, and geographic data structuring using PostgreSQL and PostGIS.
 
 ---
 
-### 🛠️️ Tech Stack
+### 🛠 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
