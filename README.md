@@ -1,55 +1,31 @@
-Leonardo Fonseca
+<div align="center">
 
-Computer Science Researcher & Software Engineer
+# Leonardo Damaceno
+### **Software Engineer & Applied NLP Researcher**
+*Computer Science Undergrad | Information Extraction & Spatial Data Pipelines*
 
-Applied Natural Language Processing (NLP) | Spatial Data Engineering | Back-End Systems
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-damaceno-63699b398/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="http://lattes.cnpq.br/SEU_ID_LATTES_AQUI">
+    <img src="https://img.shields.io/badge/Currículo_Lattes-004A80?style=for-the-badge&logo=curriculo-lattes&logoColor=white" alt="Lattes" />
+  </a>
+  <a href="mailto:leonardofonsecadmc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-🔬 Research & Technical Focus
+</div>
 
-Undergraduate in Computer Science focused on the intersection of applied data engineering, information extraction, and spatial computing. Currently leading applied research initiatives focused on extracting structured intelligence from unstructured data sources to solve urban resilience challenges.
+---
 
-Information Extraction (IE) & NLP: Named Entity Recognition (NER), Relation Extraction, and automated processing of non-standard text pipelines in Portuguese.
+### 🔬 **Research & Technical Focus**
 
-Data Engineering & Geospatial Pipelines: Ingestion pipelines, automated scraping, spatial geocoding, and GIS data alignment.
+Pesquisador técnico e desenvolvedor focado em **Processamento de Linguagem Natural (PLN)**, **Engenharia de Dados** e **Sistemas de Informação Geográfica (GIS)**. Atuação central no desenvolvimento de pipelines para extração, estruturação e resolução espacial de eventos urbanos críticos a partir de dados textuais não estruturados.
 
-Back-End Architecture: Modular, high-throughput microservices and APIs engineered with a strong emphasis on reproducibility, strict data validation, and pipeline observability.
-
-🛠️ Core Stack & Methodologies
-
-Domain
-
-Technologies & Frameworks
-
-Languages
-
-Python (Data Engineering, NLP, Automation), Java (OOP, Scalable Systems), SQL
-
-NLP & Data Science
-
-PyTorch, Hugging Face Transformers, spaCy, Pandas, NumPy, Scikit-Learn
-
-Geospatial & Storage
-
-PostGIS, PostgreSQL, QGIS, Geopandas, Shapely
-
-Back-End & Tools
-
-FastAPI, Flask, Docker, Git/GitHub Actions, Linux/Bash
-
-📌 Highlighted Projects & Research
-
-🌊 Unstructured Data Extraction for Urban Resilience
-
-Applied NLP pipeline for automated parsing, geocoding, and semantic alignment of unstructured public hazard reports.
-
-Core Tech: Python, Transformers, PostGIS, Web Scraping.
-
-Impact: Converts narrative public notices into geospatial coordinates for urban disaster monitoring.
-
-⚙️ High-Throughput Back-End & Pipeline Architectures
-
-Design and implementation of reproducible data intake pipelines, automated testing, and relational persistence.
-
-Core Tech: Python, Java, PostgreSQL, RESTful APIs.
-
-📈 Activity & Contributions
+```text
+├── Data Engineering   │ Scraping massivo, ETL automatizado e pipelines de dados
+├── Applied NLP        │ BERTimbau, Reconhecimento de Entidades Nomeadas (NER) e Normalização Temporal
+├── Spatial Systems    │ Resolução topológica com OpenStreetMap e PostGIS/PostgreSQL
+└── Backend Core       │ Arquitetura escalável em Python e Java com bancos relacionais
