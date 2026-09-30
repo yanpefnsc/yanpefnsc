@@ -1,4 +1,4 @@
-### Leonardo Damaceno 👋
+### Leonardo Damaceno 
 
 Big Data undergraduate focused on **Python** development and data manipulation. Currently building practical projects involving web scraping, data collection, and databases.
 
