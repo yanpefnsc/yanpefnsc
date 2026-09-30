@@ -1,35 +1,55 @@
-## Hi there 👋
+Leonardo Fonseca
 
-I'm Leonardo, a Computer Science student and aspiring back-end developer.
-Right now, I'm focused on learning programming, improving my logic skills, and building a strong foundation in software development.
+Computer Science Researcher & Software Engineer
 
-I enjoy studying technology, solving problems, and understanding how systems work behind the scenes.  
-Currently learning step by step while working on personal projects and university studies.
+Applied Natural Language Processing (NLP) | Spatial Data Engineering | Back-End Systems
 
----
+🔬 Research & Technical Focus
 
-## 🚀 What I'm Doing
+Undergraduate in Computer Science focused on the intersection of applied data engineering, information extraction, and spatial computing. Currently leading applied research initiatives focused on extracting structured intelligence from unstructured data sources to solve urban resilience challenges.
 
-- 💻 Studying Python and Java
-- 📚 Learning programming logic and computer science fundamentals
-- 🛠️ Building small projects to improve my coding skills
-- 🎯 Focused on becoming a professional software engineer
-- 📖 Learning more every day about back-end development and technology
+Information Extraction (IE) & NLP: Named Entity Recognition (NER), Relation Extraction, and automated processing of non-standard text pipelines in Portuguese.
 
----
+Data Engineering & Geospatial Pipelines: Ingestion pipelines, automated scraping, spatial geocoding, and GIS data alignment.
 
-## 💻 Tech Stack
+Back-End Architecture: Modular, high-throughput microservices and APIs engineered with a strong emphasis on reproducibility, strict data validation, and pipeline observability.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+🛠️ Core Stack & Methodologies
 
----
+Domain
 
-## 💬 Let's Connect
+Technologies & Frameworks
 
-- 📫 Email: leonardofonsecadmc@gmail.com
-- 💻 GitHub: https://github.com/yanpefnsc
+Languages
 
-![Snake animation](https://github.com/yanpefnsc/yanpefnsc/blob/output/github-contribution-grid-snake-dark.svg)
+Python (Data Engineering, NLP, Automation), Java (OOP, Scalable Systems), SQL
+
+NLP & Data Science
+
+PyTorch, Hugging Face Transformers, spaCy, Pandas, NumPy, Scikit-Learn
+
+Geospatial & Storage
+
+PostGIS, PostgreSQL, QGIS, Geopandas, Shapely
+
+Back-End & Tools
+
+FastAPI, Flask, Docker, Git/GitHub Actions, Linux/Bash
+
+📌 Highlighted Projects & Research
+
+🌊 Unstructured Data Extraction for Urban Resilience
+
+Applied NLP pipeline for automated parsing, geocoding, and semantic alignment of unstructured public hazard reports.
+
+Core Tech: Python, Transformers, PostGIS, Web Scraping.
+
+Impact: Converts narrative public notices into geospatial coordinates for urban disaster monitoring.
+
+⚙️ High-Throughput Back-End & Pipeline Architectures
+
+Design and implementation of reproducible data intake pipelines, automated testing, and relational persistence.
+
+Core Tech: Python, Java, PostgreSQL, RESTful APIs.
+
+📈 Activity & Contributions
