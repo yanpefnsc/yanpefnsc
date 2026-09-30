@@ -1,7 +1,7 @@
 <div align="center">
 
 # Leonardo Damaceno
-### **Software Engineer & Applied NLP Researcher**
+### Software Engineer & Applied NLP Researcher
 *Computer Science Undergrad | Information Extraction & Spatial Data Pipelines*
 
 <p align="center">
@@ -20,12 +20,41 @@
 
 ---
 
-### 🔬 **Research & Technical Focus**
+### 🔬 Research & Technical Focus
 
-Software engineer and researcher specializing in **Natural Language Processing (NLP)**, **Data Engineering**, and **Geographic Information Systems (GIS)**. Focused on designing robust pipelines for unstructured information extraction, entity resolution, and spatial mapping of critical urban events.
+Software engineer and researcher developing systems for **Natural Language Processing (NLP)**, **Data Engineering**, and **Geographic Information Systems (GIS)**. Focused on designing robust pipelines for unstructured information extraction, entity resolution, and spatial mapping of critical urban events.
 
-```text
-├── Data Engineering   │ Scalable scraping, automated ETL, and data pipelines
-├── Applied NLP        │ Transformer models (BERTimbau), NER, and temporal normalization
-├── Spatial Systems    │ Topological resolution with OpenStreetMap and PostGIS
-└── Backend Core       │ High-performance architectures using Python, Java, and SQL
+* **Data Engineering:** Automated web scrapers, data cleaning, and structured ETL pipelines.
+* **Applied NLP:** Named Entity Recognition (NER), transformer-based models (BERTimbau), and temporal normalization.
+* **Spatial Systems:** Geocoding and topological mapping with OpenStreetMap and PostGIS.
+* **Backend Core:** High-performance, scalable back-end architectures using Python, Java, and SQL databases.
+
+---
+
+### 🛠️️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yanpefnsc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Leonardo's GitHub Stats" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanpefnsc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/yanpefnsc/yanpefnsc/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
