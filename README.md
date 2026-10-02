@@ -5,7 +5,7 @@ Big Data undergraduate focused on **Python** development and data manipulation. 
 - 📚 Majoring in Big Data
 - 🛠️ Working with: Python, SQL, Pandas, and Git
 - 🎯 Current focus: data extraction pipelines and text processing
-- 💬 Reach me at: [LinkedIn](https://www.linkedin.com/in/leonardo-damaceno-63699b398/) | leonardofonsecadmc@gmail.com
+- 💬 Reach me at: [LinkedIn](https://www.linkedin.com/in/leonardo-damaceno-63699b398/) 
 
 ---
 
